@@ -5,5 +5,5 @@ def square_array(array)
   squared_array << (array.length[counter] ** 2)
   counter = counter + 1
  end
-squared_array
 end
+squared_array
